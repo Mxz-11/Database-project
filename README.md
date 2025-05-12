@@ -27,3 +27,8 @@ To run this project, you will need:
 - A SQL-compatible database management system (e.g., MySQL, PostgreSQL).
 - A C compiler (e.g., GCC).
 - Command-line tools to run SQL scripts and compile C code.
+
+
+## Collaborators
+
+https://github.com/NiBa10/
